@@ -1,2 +1,3 @@
 # ATBS
-Projects from Automate The Boring Stuff
+
+Various projects and scripts whilst working through Automate the Boring Stuff.
